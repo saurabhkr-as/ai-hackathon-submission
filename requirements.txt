@@ -6,3 +6,4 @@ python-dotenv
 apscheduler 
 openpyxl
 pymongo
+xlsxwriter
