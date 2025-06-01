@@ -5,10 +5,11 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import requests
 import os
 from dotenv import load_dotenv
+import io
 
 load_dotenv(override=True)
 
-SMALLESTAI_AGENT_KEY = os.getenv("SMALLESTAI_AGENT_KEY","ooo")
+SMALLESTAI_AGENT_KEY = st.secrets["SMALLESTAI_AGENT_KEY"]
 
 # Agent IDs per use case
 AGENT_IDS = {
@@ -22,7 +23,22 @@ scheduler = BackgroundScheduler()
 if not scheduler.running:
     scheduler.start()
 
-
+def generate_excel_template():
+    sample_data = {
+        "Name": ["Himadri"],
+        "Mobile Number": ["918274988339"],
+        "Source": ["ORGANIC"],
+        "Tags": ["New"],
+        "Date": ["31/5/2025"],
+        "Time": ["19:16"],
+        "Description": ["entest"]
+    }
+    df_template = pd.DataFrame(sample_data)
+    output = io.BytesIO()
+    with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+        df_template.to_excel(writer, index=False, sheet_name='Contacts')
+    processed_data = output.getvalue()
+    return processed_data
 def make_call_smallestai(to_number, call_type, agent_id):
     url = "https://atoms-api.smallest.ai/api/v1/conversation/outbound"
     payload = {
@@ -95,6 +111,14 @@ def call_customers_immediately(df, call_type, agent_id):
 def main():
     st.title("AI Sensy Voice Call Scheduler")
 
+    st.markdown("### Download Excel Template")
+    excel_template = generate_excel_template()
+    st.download_button(
+        label="Download Contact Upload Template",
+        data=excel_template,
+        file_name="AI_Sensy_Contacts_Template.xlsx",
+        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    )
     call_type = st.selectbox(
         "Select Call Type",
         [
@@ -139,3 +163,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
