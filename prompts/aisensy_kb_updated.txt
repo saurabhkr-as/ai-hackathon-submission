@@ -1,0 +1,125 @@
+=== AI Sensy Knowledge Base for Voice Calling Agents ===
+
+1. Company Overview:
+- AI Sensy (pronounced A-I SEN-she) is India’s leading WhatsApp marketing platform.
+- Official Meta partner with prestigious awards including:
+  - Emerging Partner of the Year 2023
+  - Click-to-WhatsApp Partner of the Year 2024
+- We help businesses engage customers through AI-powered WhatsApp automation and marketing solutions.
+- Our platform supports WhatsApp Business API integration for scalable messaging, chatbots, and campaigns.
+
+2. Contact & Support:
+- Business Hours: Monday to Saturday, 10 AM – 7 PM
+- Live product training available daily in English and Hindi
+- Support team available Mon–Sat during business hours for assistance
+
+3. Setup & Timelines:
+- WhatsApp API setup can begin within an hour if required business documents are ready.
+- Most setups are completed within a few days, depending on Meta verification.
+- Website or valid business registration documents are required:
+  - GST certificate
+  - MSME registration
+  - Proprietorship registration
+
+4. Blue Tick Verification:
+- AI Sensy assists customers with Meta Blue Tick verification after API setup.
+- Full support is provided according to Meta’s guidelines to improve approval chances.
+
+5. WhatsApp API Information:
+- Limitations:
+  - No support for group messaging, voice/video calls, communities, or status updates.
+- Benefits:
+  - Seamless backend integration
+  - Multi-agent access to a single WhatsApp number
+  - Personalized, automated communication
+  - Advanced chatbot functionality
+  - Campaign analytics and reporting
+
+6. Service Offerings:
+- WhatsApp broadcast campaigns for marketing and retargeting
+- Automated customer support using bots
+- Two-way personalized customer conversations
+- Integration with Shopify, WooCommerce, Dialogflow, and more
+
+7. Pricing Plans & Features:
+
+Free Forever Plan – ₹0  
+- WhatsApp Business API access  
+- ₹50 free conversation credits  
+- Live chat dashboard  
+- 10 tags & 5 custom attributes  
+- Click-to-WhatsApp Ads Manager  
+
+Basic Plan – ₹999/month  
+- Conversation Charges:  
+  - Marketing: ₹0.88/message  
+  - Utility: ₹0.125/message  
+  - Authentication: ₹0.125/message  
+  - Includes free service replies  
+- Features:  
+  - Unlimited agent logins  
+  - 2400 messages/minute limit  
+  - Broadcast & Retargeting campaigns  
+  - Multi-Agent Chat  
+  - Shopify, WooCommerce, Dialogflow integrations  
+  - Shared Inbox  
+- Add-on: 5 chatbot flows for ₹1999  
+
+Pro Plan – ₹2399/month  
+- All Basic features plus:  
+  - Up to 100 tags, 20 custom attributes  
+  - Smart Agent Routing  
+  - Project APIs & Campaign Budget Analytics  
+  - Click Tracking (including Carousel)  
+  - CSV Campaign Scheduler  
+  - User Access Control  
+  - Birthday automation  
+- Add-on: 5 chatbot flows for ₹1999  
+
+Enterprise Plan – Custom Pricing  
+- For brands sending 5 Lakh+ messages/month  
+- Includes all Pro Plan features plus:  
+  - Unlimited tags & attributes  
+  - Downloadable reports  
+  - Dedicated account manager  
+  - Priority customer support  
+  - Webhooks  
+  - Higher message speed  
+- Marketing Message Rate: Custom  
+- Utility & Authentication: ₹0.125 each  
+
+Chatbot Flow Add-On:  
+- Add 5 chatbot flows to any plan for ₹1999 (charged separately)  
+
+8. Training & Support:  
+- Daily group training sessions in English and Hindi  
+- Access to documentation and FAQs online  
+- Support available Mon–Sat, 10 AM – 7 PM  
+
+9. Common FAQs:  
+Q: What is WhatsApp Business API?  
+A: A business-grade API enabling companies to send automated, scalable, personalized WhatsApp messages.  
+
+Q: How long does setup take?  
+A: Usually 7-14 business days after documents are submitted; can start within an hour if docs are ready.  
+
+Q: What documents are required?  
+A: Business registration documents like GST certificate, MSME, or proprietorship registration.  
+
+Q: What is Blue Tick verification?  
+A: A green verified badge on WhatsApp profiles showing official business verification by Meta.  
+
+Q: Can AI Sensy handle multi-language messaging?  
+A: Yes, the platform supports multiple languages for messaging and training.  
+
+Q: Is WhatsApp API suitable for broadcasts and chatbots?  
+A: Yes, AI Sensy supports both broadcast campaigns and two-way chatbot interactions.  
+
+10. Limitations & Guardrails for Agents:  
+- AI Sensy focuses exclusively on WhatsApp marketing solutions.  
+- No discussion of third-party tools or unrelated technical details.  
+- Avoid sharing detailed technical or pricing info beyond the knowledge base; escalate to specialists.  
+- Be empathetic, professional, and respectful in all interactions.  
+- Escalate urgent, complex, or sensitive queries to human agents promptly.  
+- Do NOT pressure customers or provide info outside scope.  
+

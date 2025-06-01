@@ -1,0 +1,108 @@
+AI Sensy Core Information
+=========================
+
+Company Overview
+----------------
+- AI Sensy is India’s leading WhatsApp marketing platform.
+- Official Meta partner with prestigious awards including:
+  - Emerging Partner of the Year 2023
+  - Click-to-WhatsApp Partner of the Year 2024
+
+Contact & Support
+-----------------
+- Business Hours: Monday to Saturday, 10 AM – 7 PM
+- Live Product Training: Daily sessions in English and Hindi
+
+Setup & Timelines
+-----------------
+- WhatsApp API setup can be initiated within an hour if documents are ready.
+- Most setups are completed within a few days, depending on Meta verification.
+
+Blue Tick Verification
+----------------------
+- Assistance provided for Meta Blue Tick verification after API setup.
+- Full support with Meta guidelines to improve approval chances.
+
+Website & Documentation Requirements
+------------------------------------
+- A business website or valid registration documents required.
+- Accepted documents include:
+  - GST certificate
+  - MSME registration
+  - Proprietorship registration
+
+WhatsApp API Information
+------------------------
+Limitations:
+- No support for group messaging, voice/video calls, communities, or status updates.
+
+Benefits:
+- Seamless backend integration
+- Multi-agent access for one number
+- Personalized, automated communication
+- Advanced chatbot functionality
+- Campaign analytics and reports
+
+Service Offerings
+-----------------
+- WhatsApp broadcast campaigns
+- Automated customer support via bots
+- Two-way personalized conversations
+
+Training & Support
+------------------
+- Daily product training (Group sessions)
+- Available in English and Hindi
+- Support team available Mon–Sat, 10 AM – 7 PM
+
+Pricing Plans & Features
+------------------------
+
+Free Forever Plan – ₹0
+- WhatsApp Business API access
+- ₹50 free conversation credits
+- Live chat dashboard
+- 10 tags & 5 custom attributes
+- Click-to-WhatsApp Ads Manager
+
+Basic Plan – ₹999/month
+- Conversation Charges:
+  - Marketing: ₹0.88
+  - Utility: ₹0.125
+  - Authentication: ₹0.125
+  - Free service replies included
+- Includes:
+  - Unlimited agent logins
+  - 2400 msg/min limit
+  - Broadcast & Retargeting
+  - Multi-Agent Chat
+  - Shopify, WooCommerce, Dialogflow integrations
+  - Shared Inbox
+  - Add-on: 5 chatbot flows @ ₹1999
+
+Pro Plan – ₹2399/month
+- All Basic features +
+- Up to 100 tags, 20 custom attributes
+- Smart Agent Routing
+- Project APIs & Campaign Budget Analytics
+- Click Tracking (Carousel included)
+- CSV Campaign Scheduler
+- User Access Control
+- Birthday automation
+- Add-on: 5 chatbot flows @ ₹1999
+
+Enterprise Plan – Custom Pricing
+- For brands sending 5 Lakh+ messages/month
+- All Pro Plan features +
+  - Unlimited tags & attributes
+  - Downloadable reports
+  - Dedicated account manager
+  - Priority customer support
+  - Webhooks
+  - Higher message speed
+- Marketing Message Rate: Custom
+- Utility & Authentication: ₹0.125 each
+
+Chatbot Flow Add-On
+-------------------
+- Add 5 chatbot flows to any plan for ₹1999 (charged separately)
