@@ -25,7 +25,7 @@ if not scheduler.running:
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Sensy Voice Call Scheduler",
+    page_title="AiSensy Voice Call Scheduler",
     page_icon="🎯",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -475,7 +475,7 @@ def main():
         # Header banner
         st.markdown("""
         <div class="header-banner">
-            <h1>🎯 AI Sensy Voice Call Scheduler</h1>
+            <h1>🎯 AiSensy Voice Call Scheduler</h1>
             <p>Automate your voice calls with powerful AI</p>
         </div>
         """, unsafe_allow_html=True)
@@ -596,7 +596,7 @@ def main():
 with st.sidebar:
     st.markdown("""
     <div class="sidebar-header">
-        <h2 style="color: white; margin: 0;">🎯 AI Sensy</h2>
+        <h2 style="color: white; margin: 0;">🎯 AiSensy</h2>
         <p style="color: #ccc; margin: 0; font-size: 0.9rem;">Voice Call Automation</p>
     </div>
     """, unsafe_allow_html=True)
